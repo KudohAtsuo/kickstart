@@ -1,0 +1,8 @@
+node_modules/
+.next/
+*.log
+ethereum/compile.js
+ethereum/deploy.js
+/test
+ADDRESS
+
