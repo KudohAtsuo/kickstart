@@ -5,6 +5,8 @@ The creator can propose how to use money and how much money is needed as a 'Requ
 He cannot use money without 50% approvers in voting.
 
 ## How to start
+`npm install` to install dependency modules.
+
 `npm run dev`to start on localhost:3000
  
  You need some fake ETH on Rinkeby. Please get MetaMask!
