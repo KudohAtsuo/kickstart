@@ -1,7 +1,7 @@
 # kickstart project
 
-# **There has H10 and H20 errors when it is deployed onto HEROKU sever**
-=====Heroku =======
+
+# =====Heroku deployment steps=======
 I used via Github deployment method to deploy. Below is my steps on heroku:
 
 0. Creating .gitignore
@@ -62,7 +62,7 @@ IX. Select Branch
 X. Click “Deploy Branch”  
 XI. Click “View”   
 
-As a result, it showed "Application error" and logs saying a couple of H10 and H20 errors...
+It works on heroku server now :P
 
 ## basic crowd-funding dApp using Ethereum
 Same as crowd funding in real world, you can create campaigns requiring minimum contribution.
