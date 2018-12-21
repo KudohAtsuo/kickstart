@@ -1,8 +1,5 @@
-# kickstart project
-## basic crowd-funding dApp using Ethereum
-Same as crowd funding in real world, you can create campaigns requiring minimum contribution.
-The creator can propose how to use money and how much money is needed as a 'Request'. 
-He cannot use money without 50% approvers in voting.
+# kickstart project ==NEXT react dApp==
+This app is a basic crowd-funding dApp using Ethereum.Same as crowd funding in the real world, you can create campaigns requiring minimum contribution.The creator can propose how to use money and how much money is needed as a 'Request'. He cannot use money without 50% approvers in voting.
 
 ## How to start
 `npm install` to install dependency modules.
