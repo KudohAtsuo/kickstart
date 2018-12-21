@@ -9,6 +9,7 @@ He cannot use money without 50% approvers in voting.
  
  You need some fake ETH on Rinkeby. Please get MetaMask!
 
+on public server:
 https://kickstart2018.herokuapp.com/ 
 
 # =====Heroku deployment steps=======
