@@ -6,13 +6,13 @@ I used via Github deployment method to deploy. Below is my steps on heroku:
 
 0. Creating .gitignore
 
-node_modules/
-.next/
-*.log
-ethereum/compile.js
-ethereum/deploy.js
-/test
-ADDRESS
+node_modules/  
+.next/  
+*.log  
+ethereum/compile.js  
+ethereum/deploy.js  
+/test  
+ADDRESS  
 
 
 1.  Configuration on package.json
