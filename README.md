@@ -36,25 +36,25 @@ ADDRESS
 ```
 2. Creating Procfile
 
-　web: npm start --port $PORT
+`web: npm start --port $PORT`
 
 
 
 3. Making github repo & push
 
-add ., commit, remote add, push
+`add ., commit, remote add, push`
 
 
 
 4. From my terminal
 
-heroku create <my-app-name>
+`heroku create <my-app-name>`
 
 
 
 5. From my terminal
 
-heroku config:set NPM_CONFIG_PRODUCTION=false
+`heroku config:set NPM_CONFIG_PRODUCTION=false`
 
 
 
