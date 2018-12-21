@@ -16,13 +16,14 @@ ADDRESS
 
 
 1.  Configuration on package.json
-
+```
     "scripts": {
     　　"dev": "node server.js",
     　　"build": "next build",
     　　"start": "NODE_ENV=production node server.js",
     　　"heroku-postbuild": "next build"
  　　 },
+```
 2. Creating Procfile
 
 　web: npm start --port $PORT
