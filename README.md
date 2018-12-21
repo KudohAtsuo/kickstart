@@ -50,17 +50,17 @@ heroku config:set NPM_CONFIG_PRODUCTION=false
 
 6. Deploying to heroku...
 
-I. Open your browser and sign into Heroku
-II. Navigate to the “Dashboard”
-III. Select your newly created app
-IV. Click “Deploy”
-V. Under “Deployment Method” select “Github”
-VI. Add repository name ({username}/{repositoryname})
-VII. Click “Search”
-VIII. Click “Connect”
-IX. Select Branch
-X. Click “Deploy Branch”
-XI. Click “View” 
+I. Open your browser and sign into Heroku  
+II. Navigate to the “Dashboard”  
+III. Select your newly created app  
+IV. Click “Deploy”  
+V. Under “Deployment Method” select “Github”  
+VI. Add repository name ({username}/{repositoryname})  
+VII. Click “Search”  
+VIII. Click “Connect”  
+IX. Select Branch  
+X. Click “Deploy Branch”  
+XI. Click “View”   
 
 As a result, it showed "Application error" and logs saying a couple of H10 and H20 errors...
 
