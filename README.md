@@ -1,6 +1,6 @@
 # kickstart project
 
-# **There has H10 and H20 errors to HEROKU sever**
+# **There has H10 and H20 errors when it is deployed onto HEROKU sever**
 =====Heroku =======
 I used via Github deployment method to deploy. Below is my steps on heroku:
 
